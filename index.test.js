@@ -1,7 +1,7 @@
 
 import assert from 'node:assert'
 import { it } from 'node:test'
-import { add } from './'
+import { add } from './index.js'
 
 
 it('should return true', (t) => {
