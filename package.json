@@ -1,5 +1,6 @@
 {
   "name": "poc-calculadora",
+  "type": "module",
   "version": "1.0.0",
   "description": "POC",
   "main": "index.js",
