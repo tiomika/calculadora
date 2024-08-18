@@ -1,0 +1,12 @@
+{
+  "name": "poc-calculadora",
+  "version": "1.0.0",
+  "description": "POC",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "author": "",
+  "license": "ISC"
+}
